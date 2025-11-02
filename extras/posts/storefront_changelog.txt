@@ -1,0 +1,4 @@
+v01 — Initial public release of EO 14067 Research Pack:
+- records.jsonl, lattice_min.json, watch_center.log.json
+- abstract_long.md, impact_assessment.md, debunk_report.md, public_summary.md
+- SHA256 checksums included inside the listing

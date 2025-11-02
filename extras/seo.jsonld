@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "EO 14067: Ensuring Responsible Development of Digital Assets — Research Pack",
+  "description": "Neutral, source-linked summary of Executive Order 14067 with impact mechanisms, scenario notes, and a public bundle for download.",
+  "datePublished": "2025-11-02",
+  "dateModified": "2025-11-02",
+  "author": {"@type": "Organization","name": "DreamForge Workspace"},
+  "publisher": {"@type": "Organization","name": "DreamForge Workspace"},
+  "mainEntityOfPage": "https://<your-pages-domain>/eo/14067/",
+  "image": ["https://<your-pages-domain>/assets/eo14067-social.png"],
+  "keywords": ["Executive Order 14067","digital assets","CBDC","FSOC","financial stability","illicit finance","United States policy"],
+  "isAccessibleForFree": true,
+  "inLanguage": "en",
+  "references": [
+    "https://www.federalregister.gov/documents/2022/03/14/2022-05471/ensuring-responsible-development-of-digital-assets",
+    "https://www.govinfo.gov/content/pkg/FR-2022-03-14/pdf/2022-05471.pdf"
+  ]
+}

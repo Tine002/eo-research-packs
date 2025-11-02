@@ -1,0 +1,16 @@
+Pinned comment (receipts + timestamps)
+
+Receipts:
+• Federal Register (official): https://www.federalregister.gov/documents/2022/03/14/2022-05471/ensuring-responsible-development-of-digital-assets
+• GovInfo PDF mirror: https://www.govinfo.gov/content/pkg/FR-2022-03-14/pdf/2022-05471.pdf
+• Download the research bundle: https://<your-pages-domain>/downloads/EO14067_bundle_v01.zip
+
+Timestamps:
+00:00 Hook
+00:06 Context
+00:18 Three Things
+00:48 Impact (mechanisms only)
+01:05 Receipts CTA
+01:12 Disclosure
+
+Disclosure: Neutral summary of the EO text; not legal or investment advice.

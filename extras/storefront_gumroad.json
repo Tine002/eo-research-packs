@@ -1,0 +1,10 @@
+{
+  "title": "EO 14067 Research Pack \u2014 Ensuring Responsible Development of Digital Assets",
+  "summary": "A verified, source-linked research bundle on Executive Order 14067. Includes a long abstract (neutral), an impact assessment with mechanisms and scenarios, a red-team debunk report, compact records.jsonl, and a minimal lattice claim file, plus a checksum log. Built for quick verification and reuse by journalists, analysts, policy teams, and creators. Primary sources: Federal Register entry and GovInfo PDF. Set to pay-what-you-want.",
+  "version": "v01",
+  "files": [
+    "EO14067_bundle_v01.zip"
+  ],
+  "price": "0+",
+  "changelog": "v01 \u2014 Initial public release: records.jsonl, lattice_min.json, watch_center.log.json, abstract_long.md, impact_assessment.md, public_summary.md, debunk_report.md (all inside EO14067_bundle_v01.zip)."
+}
