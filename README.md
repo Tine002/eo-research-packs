@@ -23,3 +23,10 @@ Content is for public education and research. Verify all citations before reuse.
 - EO 14178 (PDF excerpt): https://www.govinfo.gov/content/pkg/DCPD-202500169/pdf/DCPD-202500169.pdf
 ## Integrity
 SHA256  EO14067_bundle_v01.zip  7D40CB87EA44D264A7D0967F023826EB46C90F1E2C870305F6EAF61A53B5C065
+## Receipts
+- EO 14067 (FR): https://www.federalregister.gov/documents/2022/03/14/2022-05471/ensuring-responsible-development-of-digital-assets
+- EO 14067 (PDF): https://www.govinfo.gov/content/pkg/CFR-2023-title3-vol1/pdf/CFR-2023-title3-vol1-eo14067.pdf
+- EO 14178 (FR): https://www.federalregister.gov/documents/2025/01/31/2025-02123/strengthening-american-leadership-in-digital-financial-technology
+- EO 14178 (PDF excerpt): https://www.govinfo.gov/content/pkg/DCPD-202500169/pdf/DCPD-202500169.pdf
+## Integrity
+SHA256  EO14067_bundle_v01.zip  AA47022F4BFA43EC244351D5A002E458EACCB30EE45ADA359F97447363BDCDA2
