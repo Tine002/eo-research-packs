@@ -1,0 +1,12 @@
+{
+  "\": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["eo_number","section_id","heading","text"],
+  "properties": {
+    "eo_number": {"type":"string"},
+    "section_id": {"type":"string"},
+    "heading": {"type":"string"},
+    "text": {"type":"string"}
+  },
+  "additionalProperties": false
+}
