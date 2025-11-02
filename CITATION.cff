@@ -4,9 +4,9 @@ authors:
   - family-names: "Forgey"
     given-names: "FORGE"
 date-released: "2025-11-02"
-version: "v01"
+version: "v02"
 repository-code: "https://github.com/Tine002/eo-research-packs"
-url: "https://Tine002.github.io/eo-research-packs/eo/14067/"
+url: "https://tine002.github.io/eo-research-packs/eo/14067/"
 preferred-citation:
   type: report
   title: "EO 14067 Research Pack (neutral analysis + datasets)"
